@@ -18,7 +18,7 @@ This project helps developers and media enthusiasts efficiently organize, analyz
 
 
 ## Installation
-
+⚠️ Verify that you have **ffmpeg** installed and in your Path environment variable
 ```bash
 git clone https://github.com/mindofmary/photo-organizer
 cd photo-organizer
